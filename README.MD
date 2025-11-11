@@ -37,10 +37,7 @@ pip install flask
 ```bash
 python app.py
 ```
-
 El servicio estará disponible en `http://localhost:5000`
-
----
 
 ## Pregunta: Comunicación con Servicio de Historial de Cálculos
 
